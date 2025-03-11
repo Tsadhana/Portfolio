@@ -7,7 +7,7 @@ import { Projects } from "./Projects";
 import { Education } from "./Education";
 import { Contact } from "./Contact";
 import { Footer } from "./Footer";
-
+//Home component
 export const Home = () => {
   const [isDark] = useTheme();
   return (
