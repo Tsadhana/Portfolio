@@ -71,7 +71,6 @@
     "path-parse": "^1.0.7",
     "performance-now": "^2.1.0",
     "picocolors": "^1.1.1",
-    "postcss": "^8.5.3",
     "private": "^0.1.8",
     "promise": "^7.3.1",
     "prop-types": "^15.8.1",
@@ -132,6 +131,8 @@
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11"
   }
