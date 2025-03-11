@@ -126,7 +126,7 @@
     "serve": "vite preview"
   },
   "engines": {
-  "node": "14.x"
+  "node": "22.x"
 },
   "keywords": [],
   "author": "",
